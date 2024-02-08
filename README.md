@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">I like looking at the world and wondering, 'Huh, why doesn't *insert idea here* exist?</h3>
+<h3 align="center">I like looking at the world and wondering, 'Huh, why doesn't *insert idea here* exist?'</h3>
 
 - 🌱 I’m currently learning **Next.js & app development for TV's**
 
