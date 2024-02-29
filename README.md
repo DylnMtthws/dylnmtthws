@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">I'm all about DATA ACCESSIBILITY - the intersection of intuitive UI's and effective data pipelines.</h3>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://dylan-portfolio-rust.vercel.app/)
-
 - 🌱 I’m currently learning **AWS Cloud Principles**
 
 - 👨‍💻 Check out my capstone project! [https://vimeo.com/911256633](https://vimeo.com/911256633)
