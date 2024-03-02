@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">I'm all about DATA ACCESSIBILITY - the intersection of intuitive UI's and effective data pipelines.</h3>
+<!-- <h3 align="center">I'm all about DATA ACCESSIBILITY - the intersection of intuitive UI's and effective data pipelines.</h3> -->
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
