@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms in Python**
 
-- 👨‍💻 Check out my capstone project from Flatiron School: Meal Match! [https://vimeo.com/911256633(https://vimeo.com/911256633)](https://vimeo.com/927695618)
+- 👨‍💻 Check out my capstone project from Flatiron School: Meal Match! [https://vimeo.com/911256633](https://vimeo.com/927695618)
 
 - 💬 Ask me about **Pinegrove, Football Manager, Coen bros films, KY Bourbon, Programming, Hokas vs Brooks, EPL xGD table, the meaning of life**
 
