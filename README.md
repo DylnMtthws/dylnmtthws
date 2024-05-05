@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <!-- <h3 align="center">I'm all about DATA ACCESSIBILITY - the intersection of intuitive UI's and effective data pipelines.</h3> -->
 
-- 🌱 I’m currently learning **Data Analytics using Python & SQL**
+- 🌱 I’m currently learning **Data Analytics with Codecademy**
 
 - 👨‍💻 Check out my capstone project from Flatiron School: Meal Match! [https://vimeo.com/911256633](https://vimeo.com/927695618)
 
